@@ -102,9 +102,13 @@ snapchat
 stock market
 ```
 
-## Tumblr
+## Identity politics
 ```
+social justice
 gender
+white male
+white man
+white men
 non-binary
 harrassment
 harrassed
@@ -119,7 +123,7 @@ cis
 cisgender
 neurotypical
 straight
-white male
+white privilege
 non-white
 patriarchy
 mansplain
