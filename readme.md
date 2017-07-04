@@ -105,6 +105,9 @@ stock market
 ## Identity politics
 ```
 social justice
+identity politics
+marginalised
+diversity
 gender
 white male
 white man
@@ -112,8 +115,10 @@ white men
 non-binary
 harrassment
 harrassed
+religion
 sexist
 sexism
+sexualization
 misandry
 misogynist
 misogynistic
